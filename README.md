@@ -11,7 +11,7 @@ An API made for the social network system, containing all the backend and struct
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" style="width: 120px;">
   <img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" style="width: 150px;">
 </p>
-
+💻 - Laravel v10.9.0 | PHP v8.2.0 | MySQL 5.2.0
 <hr>
 
 ### Build and Responsible
